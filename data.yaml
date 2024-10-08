@@ -1,0 +1,4 @@
+train: ../database/Face_Mask_Data/Train
+val: ../database/Face_Mask_Data/Validation
+nc: 2
+names: ['WithMask', 'WhithoutMask']
